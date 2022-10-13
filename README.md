@@ -1,3 +1,3 @@
 # sample-repo
 Git practice
-no-fast-forwardブランチで変更
+conflictブランチで変更
