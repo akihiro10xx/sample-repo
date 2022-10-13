@@ -1,3 +1,3 @@
 # sample-repo
 Git practice
-mainブランチで変更
+conflictブランチで変更
